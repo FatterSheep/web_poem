@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	background:#CDE0EB;
+}
+
+.logo{
+	width:73px;
+	height:136px;
+	position:absolute;
+	top:27px;
+	left:600px;
+	
+}
+	
+	
+	
+.f{
+	width:800px;
+	height:500px;
+	position:absolute;
+	top:150px;
+	left:300px;
+	background:#fff;
+	border:2px solid #ADBC81;
+	border-radius:20px;
+}
+h1{
+	color:#6C95D0;
+	font-family:"STXingkai";
+	font-size:48px;
+	top:50px;
+	left:70px;
+	position:absolute;
+}
+p{
+	display:inline-block;
+	margin-left:40px;
+}
+form{ 
+     width:740px;
+     height:500px;
+     margin-top:130px;
+     margin-left:180px;
+}
+form div{ 
+       overflow:hidden;
+       clear:both;
+}
+
+form div label{ 
+        float:left;
+        clear:both;
+}
+
+form div label .text{
+	width:200px;
+	height:26px;
+	padding:0 2px;
+	border:1px solid #ccc;
+}
+div span{ 
+     display:inline-block;
+	 width:80px;
+	 text-align:right;
+}
+.submitBtn{ 
+    width:135px;
+	height:33px;
+	background:url(../images/a.png);
+	color:#fff;
+	margin:20px 0 0 110px;
+	font-family:"STXingkai";
+	font-size:30px;
+}
+.w{
+	position:relative;
+	left:220px;
+}
+a{
+	text-decoration:none;
+}
+.z{
+	position:relative;
+	left:90px;
+	top:18px;
+}
+.zd{
+	position:relative;
+	left:103px;
+	top:20px;
+}
+
+h2{
+	color:#6C95D0;
+	font-family:"STXingkai";
+	font-size:48px;
+	top:50px;
+	left:70px;
+	position:absolute;
+}
